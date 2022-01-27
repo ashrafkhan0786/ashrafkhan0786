@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
                 width="30px">, I'm <a href="https://github.com/ashrafkhan0786" target="_main">Ashraf Khan</a></h1>
-<h3 align="center">A Passionate Programmer</h3>
+<h2 align="center">A Passionate Programmer</h2>
 <br>
 <a>
         <img alt="drawing" src="https://github.com/ashrafkhan0786/ashrafkhan0786/blob/main/header.png" />
@@ -19,16 +19,16 @@
 **About Me!**
 
 - 🌱 I’m currently learning **Web development**
-<br>
+  
 - 💬 Ask me about **Python, Html and CSS**
-<br>
-- 📫 How to reach me [iamashrafkhan786@gmail.com](mailto:iamashrafkhan786@gmail.com)
-<br>
+
+- 📫 How to reach me [iamashrafkhan786@gmail.com](mailto:iamashrafkhan786@gmail.com).
+
 - I am Ashraf Khan 😃. I am from Jodhpur, Rajasthan and currently doing my Bachelor of Technology Degree from JIET
 Institute of Design and Technology, Jodhpur 🏫.
-<br>
+
 - I love to explore and learn about new things.
-<br>
+
 <p align="left"> <a href="https://twitter.com/the__ash___" target=""><img
                         src="https://img.shields.io/twitter/follow/the__ash___?logo=twitter&style=for-the-badge"
                         alt="the__ash___" /></a> </p>
