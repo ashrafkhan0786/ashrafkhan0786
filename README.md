@@ -1,9 +1,9 @@
 <h1 align="center">Hi Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
-                width="30px">, I'm [Ashraf Khan!](https://github.com/ashrafkhan0786)</h1>
+                width="30px">, I'm <a href="https://github.com/ashrafkhan0786" target="_main">Ashraf Khan</a></h1>
 <h3 align="center">A Passionate Programmer</h3>
 <br>
 <a>
-        <img alt="drawing" src="https://github.com/ashrafkhan0786/ashrafkhan0786/blob/main/header_.png" />
+        <img alt="drawing" src="https://github.com/ashrafkhan0786/ashrafkhan0786/blob/main/header.png" />
 </a>
 <br>
 <br>
@@ -14,7 +14,6 @@
 <!-- <p align=" left"> <img
                 src="https://komarev.com/ghpvc/?username=ashrafkhan0786&label=Profile%20views&color=0e75b6&style=flat"
                 alt="ashrafkhan0786" /> </p> -->
-
 
 
 **About Me!**
@@ -33,9 +32,7 @@ Institute of Design and Technology, Jodhpur 🏫.
 <p align="left"> <a href="https://twitter.com/the__ash___" target=""><img
                         src="https://img.shields.io/twitter/follow/the__ash___?logo=twitter&style=for-the-badge"
                         alt="the__ash___" /></a> </p>
-
 <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
         <a href="https://twitter.com/the__ash___" target="blank"><img align="center"
