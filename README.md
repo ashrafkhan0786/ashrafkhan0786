@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Web development**
   
-- 💬 Ask me about **Python, Html and CSS**
+- 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me [iamashrafkhan786@gmail.com](mailto:iamashrafkhan786@gmail.com).
 
